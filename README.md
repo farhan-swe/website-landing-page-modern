@@ -28,7 +28,7 @@ You can view the live version of the landing page here:
 #### 🛠️ Installation
 
 1.  Clone the repository:
-    `git clone https://github.com/khdxsohee/website-landing-page-modern.git`
+    `git clone https://github.com/farhan-swe/website-landing-page-modern.git`
 2.  Navigate to the project directory:
     `cd website-landing-page-modern`
 3.  Open `index.html` in your web browser.
@@ -43,4 +43,4 @@ If you have any suggestions or want to improve this project, feel free to fork t
 
 #### 🤝 Connect with Me
 
-  * **GitHub**: [khdxsohee](https://github.com/khdxsohee)
+  * **GitHub**: [farhan-swe](https://github.com/farhan-swe)
